@@ -1,0 +1,24 @@
+{
+  "name": "metadata_manager",
+  "version": "0.0.1",
+  "description": "tracks sources, transformations, and displays of data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlstokes/metadata_manager.git"
+  },
+  "keywords": [
+    "metadata",
+    "data",
+    "tracking"
+  ],
+  "author": "Macon Stokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlstokes/metadata_manager/issues"
+  },
+  "homepage": "https://github.com/mlstokes/metadata_manager#readme"
+}
